@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, everything is fixed and working properly between VScode, Github Desktop, and Github. Finally, could look into other ways to upload to Github.
+Status: Currently, everything is fixed and working properly between VScode, Github Desktop, and Github. Be careful when setting up repo especially on how to connect them to local drive. Finally, could look into other ways to upload to Github; maybe sublime text is possible option.
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
