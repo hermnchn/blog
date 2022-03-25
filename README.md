@@ -6,7 +6,7 @@
 
 Status: Currently, everything is fixed and working properly between VScode, Github Desktop, and Github. Be careful when setting up repo especially on how to connect them to local drive. Finally, could look into other ways to upload to Github; maybe sublime text is possible option.
 
-Project: It's time for the big one. I plan to redo my big project using AI api. Hope it goes according to plan.
+Project: It's time for the big one. I plan to redo my big project using AI api. Hope it goes according to plan. Oh no, somehow I mess up my template folder guess I'll have to fix that instead.
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
