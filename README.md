@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, everything is fixed and working properly between VScode, Github Desktop, and Github. Be careful when setting up repo especially on how to connect them to local drive. Finally, could look into other ways to upload to Github; maybe sublime text is possible option. Maybe it's time to take a break from coding and do coding related stuff. Forget to mention that I slowly revising my resume atm.
+Status: Currently, seems like I learning new thing or at least gaining a better understanding working thru the AI api project. Might go back to the other react project I did and see if I gain some more insights. Meanwhile, I realize working on smaller to medium size projects keep my motivation going strong.
 
-Project: It's time for the big one. I plan to redo my big project using AI api. Hope it goes according to plan. Took a break to try a smaller project on the side.
+Project: AI api is taking more time to organize and setup again. 
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
