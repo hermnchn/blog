@@ -9,6 +9,8 @@ Status: Currently, seems like I learning new thing or at least gaining a better 
 Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
 
 News: No Starch Press has another great Humble Bundle offering 18 books on Python. Less than 20 days left before it ends.
+https://www.humblebundle.com/books/python-no-starch-press-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_1_c_pythonnostarchpress_bookbundle
+
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
