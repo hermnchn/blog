@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, seems like I learning new thing or at least gaining a better understanding working thru the AI api project. Might go back to the other react project I did and see if I gain some more insights. Meanwhile, I realize working on smaller to medium size projects keep my motivation going strong. Past few days felt much better. Manage to do some coding. Spending more time reading documentation. Another day lost to running errands (and there goes another one). Researching and sorting out a bunch of coding resources. Taking a bit longer than I anticipated.
+Status: Currently, seems like I learning new thing or at least gaining a better understanding working thru the AI api project. Might go back to the other react project I did and see if I gain some more insights. Meanwhile, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Taking a bit longer than I anticipated.
 
 Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
 
