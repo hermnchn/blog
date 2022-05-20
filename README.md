@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Finally starting feeling better; post surgery checkup says on a good road to recovery. Well that was surprising to say the least.
+Status: Currently, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Finally starting feeling better; post surgery checkup says on a good road to recovery. Well that was surprising to say the least. Learn something new today.
 
 Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
 
