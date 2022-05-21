@@ -8,10 +8,10 @@ Status: Currently, I realize working on smaller to medium size projects keep my 
 
 Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
 
-News: No Starch Press has another great Humble Bundle offering 18 books on Python. Less than 7 days left before it ends.
+News: No Starch Press has another great Humble Bundle offering 18 books on Python. Less than 3 days left before it ends.
 https://www.humblebundle.com/books/python-no-starch-press-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_1_c_pythonnostarchpress_bookbundle
 
-Oh... O'Reily has a interesting book bundle on their 'Cookbook' series. Little more than 12 days left before it ends.
+Oh... O'Reily has a interesting book bundle on their 'Cookbook' series. Little more than 10 days left before it ends.
 https://www.humblebundle.com/books/coding-cookbooks-oreilly-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_codingcookbooksoreilly_bookbundle
 
 <!---
