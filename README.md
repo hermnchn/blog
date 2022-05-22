@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Finally starting feeling better; post surgery checkup says on a good road to recovery. Well that was surprising to say the least. Learn something new today; well, backe to square one again. Woop woop.
+Status: Currently, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Finally starting feeling better; post surgery checkup says on a good road to recovery. Time sure flies by when your busy.
 
 Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
 
-News: No Starch Press has another great Humble Bundle offering 18 books on Python. Less than 3 days left before it ends.
+News: No Starch Press has another great Humble Bundle offering 18 books on Python. Less than 2 days left before it ends.
 https://www.humblebundle.com/books/python-no-starch-press-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_1_c_pythonnostarchpress_bookbundle
 
-Oh... O'Reily has a interesting book bundle on their 'Cookbook' series. Little more than 10 days left before it ends.
+Oh... O'Reily has a interesting book bundle on their 'Cookbook' series. Little more than 8 days left before it ends.
 https://www.humblebundle.com/books/coding-cookbooks-oreilly-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_codingcookbooksoreilly_bookbundle
 
 <!---
