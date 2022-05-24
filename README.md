@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, I realize working on smaller to medium size projects keep my motivation going strong. Doing my best not to mentally stress myself out for not coding long enough. Health first and foremost before coding. Researching and sorting out a bunch of coding resources. Finally starting feeling better; post surgery checkup says on a good road to recovery. Time sure flies by when your busy.
+Status: Currently, I'm looking into apprenticeship programs and using their qualification guidelines as a metric on what skills I need to double-down on. It's surprisingly efficient way of knowing what level of knowledge I should have or acquire before applying for jobs. 
 
-Project: Finish up 20 project course before heading back to main project. Take what I learn and apply it.
+Project: Re-evaluating past projects and making a stronger portfolio is the goal now.
 
 Happy to say I brought the "Python by No Starch Press" Humble Bundle before it ended today. 
 
