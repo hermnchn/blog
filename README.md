@@ -13,6 +13,8 @@ Happy to say I brought the "Python by No Starch Press" Humble Bundle before it e
 Now, I'm still considering whether to pull on the O'Reily bundle; it has a interesting collection of 'Cookbook' series. 
 https://www.humblebundle.com/books/coding-cookbooks-oreilly-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_2_layout_type_threes_tile_index_1_c_codingcookbooksoreilly_bookbundle
 
+Also, I'm wondering if I should buy more courses from Udemy while it's all on sale. I finished a 1/3 of what I got before. 
+
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
