@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, I'm looking into apprenticeship programs and using their qualification guidelines as a metric on what skills I need to double-down on. It's surprisingly efficient way of knowing what level of knowledge I should have or acquire before applying for jobs. Wow so nice to have something working again. So cool how it turned out.
+Status: Currently, I'm looking into apprenticeship programs and using their qualification guidelines as a metric on what skills I need to double-down on. It's surprisingly efficient way of knowing what level of knowledge I should have or acquire before applying for jobs. Wow so nice to have something working again. So cool how it turned out. Sometimes I wonder why everything has to be in hard mode. Sigh.
 
 Project: Re-evaluating past projects and making a stronger portfolio is the goal now.
 
