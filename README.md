@@ -6,12 +6,9 @@
 
 Status: Currently, I'm looking into apprenticeship programs and using their qualification guidelines as a metric on what skills I need to double-down on. It's surprisingly efficient way of knowing what level of knowledge I should have or acquire before applying for jobs. Wow so nice to have something working again. So cool how it turned out. Sometimes I wonder why everything has to be in hard mode. Sigh.
 
-Project: Re-evaluating past projects and making a stronger portfolio is the goal now.
+Project: Re-evaluating past projects and making a stronger portfolio is the goal now. Looking at other peoples' examples for the good and bad.
 
 Happy to say I brought the "Python by No Starch Press" Humble Bundle. Consolidating some Reddit advice on which books to prioritize.
-
-Decided not to get the O'Reily cookbook bundle; it's a great value but I'm not at that stage of my learning path to fully utilize the whole thing. 
-
 Brought two courses to supplement what I'm learning atm from the Udemy sale. Hopefully Go isn't too difficult to understand.
 
 <!---
