@@ -14,6 +14,8 @@ Brought two courses to supplement what I'm learning atm from the Udemy sale. Hop
 Wow. I didn't realize there was another great Humble Bundle for software development:
 https://www.humblebundle.com/books/software-development-books-oreilly-media-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_2_c_softwaredevelopmentbooksoreillymedia_bookbundle
 
+Should I get it or not?
+
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
