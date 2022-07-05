@@ -11,10 +11,6 @@ Project: Re-evaluating past projects and making a stronger portfolio is the goal
 Happy to say I brought the "Python by No Starch Press" Humble Bundle. Consolidating some Reddit advice on which books to prioritize.
 Brought two courses to supplement what I'm learning atm from the Udemy sale. Hopefully Go isn't too difficult to understand.
 
-Wow. I didn't realize there was another great Humble Bundle for software development:
-https://www.humblebundle.com/books/software-development-books-oreilly-media-books?hmb_source=&hmb_medium=product_tile&hmb_campaign=mosaic_section_1_layout_index_1_layout_type_threes_tile_index_2_c_softwaredevelopmentbooksoreillymedia_bookbundle
-
-Should I get it or not?
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
