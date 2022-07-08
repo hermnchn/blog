@@ -11,7 +11,7 @@ Project: Re-evaluating past projects and making a stronger portfolio is the goal
 Happy to say I brought the "Python by No Starch Press" Humble Bundle. Consolidating some Reddit advice on which books to prioritize.
 Brought two courses to supplement what I'm learning atm from the Udemy sale. Hopefully Go isn't too difficult to understand.
 
-Thanks to my friend providing a copy of a great resource in writing tech resumes. Already half way through the book. Done reading the book today. Time to implement what I learned.
+Thanks to my friend providing a copy of a great resource in writing tech resumes. Already half way through the book. Done reading the book today. Time to implement what I learned. Work, work, work.
 
 <!---
 hermnchn/hermnchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
