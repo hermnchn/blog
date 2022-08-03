@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, I'm looking into apprenticeship programs and using their qualification guidelines as a metric on what skills I need to double-down on. It's surprisingly efficient way of knowing what level of knowledge I should have or acquire before applying for jobs. Learning about the "Big O". Reworking my resume. Found a good resource on what to put in. Decided to not over stress in using GitHub everyday. Mental health is important. 
+Status: Currently, learning data structures and algorithms; also learning about the "Big O". Reworking my resume. Found a good resource on what to put in. Decided to not over stress in using GitHub everyday. Mental health is important. 
 
 Project: Re-evaluating past projects and making a stronger portfolio is the goal now. Wondering if doing the same project is another language is worth showcasing.
 
