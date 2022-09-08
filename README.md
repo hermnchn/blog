@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web app to mobile app transition.
 - 📫 How to reach me either on Linkedin or Twitter.
 
-Status: Currently, learning data structures and algorithms; also learning about the "Big O". Reworking my resume. Found a good resource on what to put in. Decided to not over stress in using GitHub everyday. Mental health is important. Oh no, Heroku why?! Seems like Render putting a strong effort to replace Heroku users. Reading Render's FAQ on transfering from Heroku to Render. Well that could had gone better. Here we go again.
+Status: Currently, learning data structures and algorithms; also learning about the "Big O". Reworking my resume. Found a good resource on what to put in. Decided to not over stress in using GitHub everyday. Mental health is important. Oh no, Heroku why?! Seems like Render putting a strong effort to replace Heroku users. Reading Render's FAQ on transfering from Heroku to Render. Well that could had gone better. Here we go again. Preparing for transition.
 
 Project: Re-evaluating past projects and making a stronger portfolio is the goal now. Wondering if doing the same project is another language is worth showcasing. Working on smaller projects not for portfolio but rather gain skills usefull for bigger projects.
 
