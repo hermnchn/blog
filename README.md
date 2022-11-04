@@ -5,7 +5,7 @@
 - 📫 How to reach me either on Linkedin or Twitter.
 
 
-Status: Finish moving and close to being done unpacking my stuff. Reorganizing everything atm. Might check out a few bootcamps for fun. Meetup turn out pretty decent. Guess it's time to start again. My poor monitor finally gave out after 14 yrs of service. Guess I'm sticking with 1080p again. New monitors coming before the end of this weekend. What a busy day. Fine tuning monitors before mounting on arms. Time sure flies by fast x5. Happy Halloween. Stay safe and have fun. Wow it's almost the end of the year. Only 2 months left.
+Status: Finish moving and close to being done unpacking my stuff. Reorganizing everything atm. Might check out a few bootcamps for fun. Meetup turn out pretty decent. Guess it's time to start again. My poor monitor finally gave out after 14 yrs of service. Guess I'm sticking with 1080p again. New monitors coming before the end of this weekend. What a busy day. Fine tuning monitors before mounting on arms. Cleaning up wires takes forever.
 
 Project(s): Re-evaluating everything I done so far. 
 
