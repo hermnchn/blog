@@ -5,7 +5,7 @@
 - 📫 How to reach me either on Linkedin or Twitter.
 
 
-Status: Finish moving and close to being done unpacking my stuff. Reorganizing everything atm. Might check out a few bootcamps for fun. Meetup turn out pretty decent. Guess it's time to start again. So much going on; a bit hard to keep up. Hmmm. It's end of the year. Attending the last meetups of this year. Woot x2. 
+Status: Finish moving and close to being done unpacking my stuff. Reorganizing everything atm. Might check out a few bootcamps for fun. Meetup turn out pretty decent. Guess it's time to start again. So much going on; a bit hard to keep up. Hmmm. It's end of the year. Attending the last meetups of this year. Woot x3. 
 
 
 Project(s): Re-evaluating everything I done so far. 
