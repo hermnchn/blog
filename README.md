@@ -1,2 +1,3 @@
 # blog
-Config files for my GitHub profile.
+
+Consider either BitWarden or Keepass
