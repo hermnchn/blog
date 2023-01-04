@@ -1,4 +1,4 @@
-# blog
+# Activity Log
 
 Consider either BitWarden or Keepass
 
