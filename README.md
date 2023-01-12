@@ -12,3 +12,4 @@ web scraping with javascript or python
 google search operators
 
 heroku alt => render
+goggle top 20 vscode shortcuts
