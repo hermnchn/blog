@@ -3,3 +3,8 @@ https://cloud.google.com/compute
 https://aws.amazon.com/getting-started/hands-on/launch-a-virtual-machine/
 
 consider Oracle's VirtualBox (a VM you can run locally on your machine)
+
+intall docker desktop for windows/mac
+then run linux containers (Ubunta, CentOS, etc.)
+process is super simple, footprint of containers are much smaller than running a hypervisor w/ VM (VMware fusion/virtualbox/workstation)
+besides that, get exposure to containerization along w/ orchestration (kubernetes, etc) which are the future of using/consuming apps in the future
