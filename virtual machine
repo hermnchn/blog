@@ -1,0 +1,5 @@
+set up a cloud virtual machine to install Linux -> good way to experience it
+https://cloud.google.com/compute
+https://aws.amazon.com/getting-started/hands-on/launch-a-virtual-machine/
+
+consider Oracle's VirtualBox (a VM you can run locally on your machine)
