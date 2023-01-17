@@ -16,3 +16,5 @@ goggle top 20 vscode shortcuts
 
 check out emmet for vscode
 rework Notion useage
+
+reminder work on a README template
