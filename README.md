@@ -18,3 +18,4 @@ check out emmet for vscode
 rework Notion useage
 
 reminder work on a README template
+GitHub Docs - Basic writing and formatting syntax
