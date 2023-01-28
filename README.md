@@ -25,4 +25,5 @@ pattern.dev
 
 yubico key api
 
-tgif
+learn Docker containers
+GraphQL
