@@ -1,6 +1,6 @@
 # Activity Log
 
-Consider either BitWarden or Keepass
+Consider either BitWarden or Keepass; never use Lastpass (too many hacks/leaks)
 
 Compare exercism.org vs hackerearth.com vs hackerrack.com
 
