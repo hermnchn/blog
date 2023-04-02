@@ -32,3 +32,5 @@ refactoring code - go wiki this
 practice tests for program; tired
 
 stubborn.fun - free illustration generator
+
+lookup career fairs => tailer resumes
