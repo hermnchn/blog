@@ -34,3 +34,5 @@ practice tests for program; tired
 stubborn.fun - free illustration generator
 
 lookup career fairs => tailer resumes
+
+oracle certification free til Aug 31st
