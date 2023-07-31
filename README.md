@@ -36,3 +36,4 @@ stubborn.fun - free illustration generator
 lookup career fairs => tailer resumes
 
 oracle certification free til Aug 31st
+SFPL O'Reilly for Public Libraries
